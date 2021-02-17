@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/icaroc/blender-render-colab/blob/main/blender_render.ipynb)
+
 # blender-render-colab
 Google Colab para renderizar arquivos .Blend pela GPU.
 
